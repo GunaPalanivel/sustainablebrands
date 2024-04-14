@@ -45,7 +45,7 @@ initial_prompt = """ gather and process information from various sources, includ
 GENERATE BRAND ANALYSIS OF THIS : 
 """
 # Input field for user's message
-user_prompt =  st.chat_input("Ask SustainX Bot...") 
+user_prompt =  st.chat_input("Ask GreenLexicon Bot...") 
 see_prompt = user_prompt
 if user_prompt:
     user_prompt += "" + initial_prompt 
