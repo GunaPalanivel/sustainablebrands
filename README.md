@@ -1,5 +1,7 @@
 # Brand Sustainability Analysis
 
+# Built for [GreenLexicon](https://github.com/GunaPalanivel/GreenLexicon.git)
+
 ## Overview
 
 This is a Streamlit web application that allows users to analyze the sustainability of their favorite brands. The application utilizes the Google Gemini-Pro AI model to gather and process information from various sources, including corporate sustainability reports, news articles, and online reviews. The analysis highlights the brand's efforts in areas such as energy efficiency, waste reduction, and ethical sourcing, enabling users to support environmentally responsible companies.
